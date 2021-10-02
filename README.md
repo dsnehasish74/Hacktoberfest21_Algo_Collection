@@ -3,4 +3,4 @@ This is a repository of Collection of all Algorithms And DataStructure. Submit a
 
 ## How to submit ?
 
-Create a folder with the name of that Algorithm. Inside that folder create a file with the extension of your language preference. Write your Algo there and Submit.
+Create a file name with the name of that Algorithm. Write your Algo there and Submit.
