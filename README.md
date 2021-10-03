@@ -4,41 +4,46 @@ This repository is a Collection of all Algorithms & Data Structures. Submit a pu
 
 ### C
 
-- [Merge Sort](C/mergesort.c)
-- [Quick Sort](C/quicksort.c)
+- [Count Sort](C/count-sort.c)
+- [Merge Sort](C/merge-sort.c)
+- [Quick Sort](C/quick-sort.c)
 
 ### C++
 
-- [Binary Search](C++/BinarySearch.cpp)
-- [Circular Linked List Insertion Deletion](C++/Circular_Linked_List_Insertion_deletion.cpp)
-- [Dijkstra's Algorithm](C++/DijkstraAlgo.cpp)
-- [DNF Sort](C++/DNFsort.cpp)
-- [Heap Sort](C++/Heap_sort.cpp)
-- [Insertion Sort](C++/insertionSort.cpp)
+- [Binary Search](C++/binary-search.cpp)
+- [Bubble Sort](C++/bubble-sort.cpp)
+- [Circular Linked List Insertion Deletion](C++/circular-linked-list-insertion-deletion.cpp)
+- [Dijkstra's Algorithm](C++/dijkstra-algo.cpp)
+- [DNF Sort](C++/dnf-sort.cpp)
+- [Heap Sort](C++/heap-sort.cpp)
+- [Infix To Prefix Postfix](C++/infix-to-prefix-postfix.cpp)
+- [Insertion Sort](C++/insertion-sort.cpp)
 - [Kanade Algorithm](C++/kanade-algorithm.cpp)
-- [Merge Sort](C++/merge_sort.cpp)
-- [Polygon Triangulation](C++/polygon_triangulation.cpp)
-- [Quick Sort](C++/quick_sort.cpp)
-- [Radix Sort](C++/RadixSort.cpp)
-- [Selection Sort](C++/Selection%20Sort.cpp)
-- [Sliding Window Tech](C++/Sliding_window_tech.cpp)
+- [Merge Sort](C++/merge-sort.cpp)
+- [Polygon Triangulation](C++/polygon-triangulation.cpp)
+- [Quick Sort](C++/quick-sort.cpp)
+- [Radix Sort](C++/radix-sort.cpp)
+- [Selection Sort](C++/selection-sort.cpp)
+- [Sliding Window Tech](C++/sliding-window-tech.cpp)
+- [String Match](C++/string-match.cpp)
 - [Tower Of Hanoi](C++/tower-of-hanoi.cpp)
-- [Tree BFS](C++/treebfs.cpp)
-- [Tree DFS](C++/treedfs.cpp)
+- [Tree BFS](C++/tree-bfs.cpp)
+- [Tree DFS](C++/tree-dfs.cpp)
 
 ### Java
 
-- [Bubble Sort](Java/BubbleSort.java)
-- [Cyclic Sort](Java/CyclicSort.java)
-- [Insertion Sort](Java/InsertionSort.java)
-- [Merge Sort](Java/MergeSort.java)
-- [Selection Sort](Java/SelectionSort.java)
+- [Bubble Sort](Java/bubble-sort.java)
+- [Cyclic Sort](Java/cyclic-sort.java)
+- [Insertion Sort](Java/insertion-sort.java)
+- [Merge Sort](Java/merge-sort.java)
+- [Selection Sort](Java/selection-sort.java)
 
 ### Python
 
-- [Bubble Sort](Python/Bubblesort.py)
-- [Insertion Sort](Python/insertion_sort.py)
-- [Quick Sort](Python/Quicksort%20Sort.py)
+- [Bubble Sort](Python/bubble-sort.py)
+- [Insertion Sort](Python/insertion-sort.py)
+- [Merge Sort](Python/merge-sort.py)
+- [Quick Sort](Python/quicksort-sort.py)
 
 ## How to submit ?
 
