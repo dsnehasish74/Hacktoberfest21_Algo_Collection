@@ -211,4 +211,3 @@ class AvlTree:
         n = node.right
         while n.left:
             n = n.left
-        return n
