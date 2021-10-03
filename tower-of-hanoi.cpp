@@ -1,4 +1,3 @@
-
 // C++ recursive function to
 // solve tower of hanoi puzzle
 #include <bits/stdc++.h>
