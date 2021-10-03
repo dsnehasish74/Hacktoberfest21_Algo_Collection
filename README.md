@@ -2,6 +2,8 @@
 
 This repository is a Collection of all Algorithms & Data Structures. Submit a pull request to contribute.
 
+---
+
 ### C
 
 - [Count Sort](C/count-sort.c)
@@ -45,8 +47,8 @@ This repository is a Collection of all Algorithms & Data Structures. Submit a pu
 - [Merge Sort](Python/merge-sort.py)
 - [Quick Sort](Python/quicksort-sort.py)
 
-## How to submit ?
+---
 
-Create a file name with the name of that Algorithm. Write your Algo there and Submit.
+## How to contribute?
 
-Create a file with the algorithm. Name the file with the algorithm name & Place it in the folder corresponding to the language used. Submit the Pull Request.
+Feel free to add new algorithms and improvements. Refer to the [contribution guide](CONTRIBUTING.md).
