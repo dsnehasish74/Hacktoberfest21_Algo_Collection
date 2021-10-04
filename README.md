@@ -29,6 +29,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Linked List Deletion](C++/linked-list-deletion.cpp)
 - [Linked List Insertion](C++/linked-list-insertion.cpp)
 - [Merge Sort](C++/merge-sort.cpp)
+- [N_Queens Backtracking Problem](C++/N-Queens-backtracking.cpp)
 - [Polygon Triangulation](C++/polygon-triangulation.cpp)
 - [Quick Sort](C++/quick-sort.cpp)
 - [Radix Sort](C++/radix-sort.cpp)
