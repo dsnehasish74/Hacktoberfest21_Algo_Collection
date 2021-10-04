@@ -2,6 +2,8 @@
 
 This repository is a collection of various algorithms & data structures covering all programming languages. New additions are welcomed. Submit a pull request to [contribute👇](#-how-to-contribute)
 
+![logo jpg](https://user-images.githubusercontent.com/71459989/135807893-2dda4ce6-f9b8-4232-a893-631aef3f2183.jpg)
+
 ---
 
 ### C
