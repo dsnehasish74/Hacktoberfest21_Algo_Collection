@@ -1,3 +1,5 @@
+
+![logo jpg](https://user-images.githubusercontent.com/71459989/135807893-2dda4ce6-f9b8-4232-a893-631aef3f2183.jpg)
 # Hacktoberfest21_Algo_Collection ✨
 
 This repository is a collection of various algorithms & data structures covering all programming languages. New additions are welcomed. Submit a pull request to [contribute👇](#-how-to-contribute)
@@ -29,6 +31,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Linked List Deletion](C++/linked-list-deletion.cpp)
 - [Linked List Insertion](C++/linked-list-insertion.cpp)
 - [Merge Sort](C++/merge-sort.cpp)
+- [N_Queens Backtracking Problem](C++/n-queens-backtracking.cpp)
 - [Polygon Triangulation](C++/polygon-triangulation.cpp)
 - [Quick Sort](C++/quick-sort.cpp)
 - [Radix Sort](C++/radix-sort.cpp)
@@ -64,6 +67,7 @@ This repository is a collection of various algorithms & data structures covering
 - [First Unique Character](Python/first-unique-character.py)
 - [Floyd's Triangle](Python/floyds-triangle.py)
 - [Insertion Sort](Python/insertion-sort.py)
+- [Knapsack](Python/knapsack.py)
 - [Merge Sort](Python/merge-sort.py)
 - [Quick Sort](Python/quicksort-sort.py)
 - [Segment Tree](Python/segment-tree.py)
@@ -72,3 +76,5 @@ This repository is a collection of various algorithms & data structures covering
 ## 🙋 How to contribute?
 
 We are open to new additions and suggestions. Please refer to the [contribution guide](CONTRIBUTING.md).
+View my [blog](https://solinone.blogspot.com/). 
+
