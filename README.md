@@ -1,4 +1,4 @@
-# Hacktoberfest21_Algo_Collection ✨ 
+# Hacktoberfest21_Algo_Collection ✨
 
 This repository is a collection of various algorithms & data structures covering all programming languages. New additions are welcomed. Submit a pull request to [contribute👇](#-how-to-contribute)
 
@@ -19,8 +19,11 @@ This repository is a collection of various algorithms & data structures covering
 - [DNF Sort](C++/dnf-sort.cpp)
 - [Heap Sort](C++/heap-sort.cpp)
 - [Infix To Prefix Postfix](C++/infix-to-prefix-postfix.cpp)
+- [Insertion And Deletion In Stack](C++/insertion-and-deletion-in-stack.cpp)
 - [Insertion Sort](C++/insertion-sort.cpp)
 - [Kanade Algorithm](C++/kanade-algorithm.cpp)
+- [Linked List Deletion](C++/linked-list-deletion.cpp)
+- [Linked List Insertion](C++/linked-list-insertion.cpp)
 - [Merge Sort](C++/merge-sort.cpp)
 - [Polygon Triangulation](C++/polygon-triangulation.cpp)
 - [Quick Sort](C++/quick-sort.cpp)
@@ -42,10 +45,13 @@ This repository is a collection of various algorithms & data structures covering
 
 ### Python
 
+- [AVL Tree](Python/avl-tree.py)
 - [Bubble Sort](Python/bubble-sort.py)
+- [First Unique Character](Python/first-unique-character.py)
 - [Insertion Sort](Python/insertion-sort.py)
 - [Merge Sort](Python/merge-sort.py)
 - [Quick Sort](Python/quicksort-sort.py)
+- [Segment Tree](Python/segment-tree.py)
 
 ## 🙋 How to contribute?
 
