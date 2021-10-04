@@ -20,6 +20,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Counting Sort](C++/counting-sort.cpp)
 - [Dijkstra's Algorithm](C++/dijkstras-algorithm.cpp)
 - [DNF Sort](C++/dnf-sort.cpp)
+- [Greedy Algorithm - Coin Change](C++/greedyalgo-coinchange.cpp)
 - [Heap Sort](C++/heap-sort.cpp)
 - [Infix To Prefix Postfix](C++/infix-to-prefix-postfix.cpp)
 - [Insertion And Deletion In Stack](C++/insertion-and-deletion-in-stack.cpp)
@@ -48,9 +49,11 @@ This repository is a collection of various algorithms & data structures covering
 - [Merge Sort](Java/merge-sort.java)
 - [Quick Sort](Java/quick-sort.java)
 - [Selection Sort](Java/selection-sort.java)
+- [Z Algorithm](Java/z-algorithm.java)
 
 ### Python
 
+- [8 Queens](Python/8-queens.py)
 - [AVL Tree](Python/avl-tree.py)
 - [Bubble Sort](Python/bubble-sort.py)
 - [Dijkstra's Algorithm](Python/dijkstras-algorithm.py)
