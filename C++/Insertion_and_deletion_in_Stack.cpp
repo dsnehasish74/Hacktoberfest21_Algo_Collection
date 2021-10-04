@@ -3,7 +3,7 @@ using namespace std;
 struct Stack
 {
     int size;
-    int top ;
+    int top;
     int *arr;
 };
 
@@ -20,7 +20,26 @@ public:
     void push();
     void pop();
     void display();
+    void peek();
 };
+
+void Stack_Class ::peek()  // peek operation in the stack
+{
+    int position;
+    cout<<"Start Entering the position from the 1 not from the 0!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"<<endl;
+    cout << "Enter the position of the element you want in stack from the top: ";
+    cin >> position;
+    if (position > object->top || position == -1)
+    {
+        cout << "Invalid position entered try again";
+    }
+    else
+    {
+        int var= object->arr[object->top-position +1];
+        cout<<"The value of the stack at the "<< position <<" position is: "<<var;
+    }
+    cout<<endl;
+}
 
 bool Stack_Class ::isEmpty()
 {
@@ -36,7 +55,7 @@ bool Stack_Class ::isEmpty()
 
 bool Stack_Class ::isFull()
 {
-    if (object->top == object->size-1)
+    if (object->top == object->size - 1)
     {
         return true;
     }
@@ -50,7 +69,7 @@ void Stack_Class ::creation()
 {
     int s;
     char ch = 'y';
-    object->top= -1;
+    object->top = -1;
     cout << "Enter the size of the stack: ";
     cin >> s;
     object->size = s;
@@ -59,7 +78,7 @@ void Stack_Class ::creation()
     {
         if (isFull())
         {
-            cout << "The Stack is Full"<<endl;
+            cout << "The Stack is Full" << endl;
             break;
         }
         else
@@ -77,7 +96,7 @@ void Stack_Class ::creation()
 
 void Stack_Class::display()
 {
-    for (int i = 0; i <=object->top; i++)
+    for (int i = 0; i <= object->top; i++)
     {
         cout << object->arr[i] << " ";
     }
@@ -88,7 +107,7 @@ void Stack_Class ::push()
 {
     if (isFull())
     {
-        cout << "The stack is full"<<endl;
+        cout << "Stack OverFlow!!!!!!!!!!!" << endl;
     }
     else
     {
@@ -104,7 +123,7 @@ void Stack_Class ::pop()
 {
     if (isEmpty())
     {
-        cout << "The Stack is empty"<<endl;
+        cout << "Stack UnderFlow!!!!!!!!!!!!" << endl;
     }
     else
     {
@@ -118,10 +137,11 @@ int main()
     do
     {
         cout << "1. Enter the array" << endl;
-        cout << "2. Display the array" << endl;
-        cout << "3. Push the element into the array" << endl;
-        cout << "4. pop the value in the array" << endl;
-        cout << "5. Exit" << endl;
+        cout << "2. Display the stack" << endl;
+        cout << "3. Push the element into the stack" << endl;
+        cout << "4. pop the value in the stack" << endl;
+        cout << "5. Showing the particular value of the stack" << endl;
+        cout << "6. Exit" << endl;
         cout << endl;
         cout << "Enter your choice: ";
         cin >> choice;
@@ -149,6 +169,11 @@ int main()
         }
         case 5:
         {
+            operations.peek();
+            break;
+        }
+        case 6:
+        {
 
             break;
         }
@@ -159,6 +184,6 @@ int main()
             break;
         }
         }
-    } while (choice != 5);
+    } while (choice != 6);
     return 0;
 }
