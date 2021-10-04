@@ -1,8 +1,8 @@
-value = [10, 40, 20, 30]
-weight = [60, 40, 100, 120]
-W = 50
-n = len(value)
-A = [[0 for x in range(W + 1)] for x in range(n + 1)]
+value =[10, 40, 20, 30]
+weight =[60, 40, 100, 120]
+W =50
+n =len(value)
+A =[[0 for x in range(W + 1)] for x in range(n + 1)]
 for i in range(n + 1):
   for w in range(W + 1):
      if i == 0 or w == 0:
