@@ -1,4 +1,4 @@
-# Contribution Guide
+# Contribution Guide 📝
 
 ## Adding Algorithms & Data Structures
 
@@ -16,7 +16,7 @@ For example, if the name of your algorithm is _My Awesome Algorithm_, the file s
 
 ### 📄 Updating README.md
 
-Add the relative link to your file in the list under the corresponding language heading.
+Add the relative link to your file to the list under the corresponding language heading.
 **The list is arranged in alphabetical order.**
 
 For example, for adding `my-awesome-algorithm.<ext>`, the list item will be
@@ -31,4 +31,4 @@ If the language heading does not exist already then add a new heading in such a 
 
 Create a Pull Request after commiting the changes.
 
-Thank you in advance for your contribution!
+Thank you in advance for your contribution 😊
