@@ -1,6 +1,6 @@
 # ✨ Hacktoberfest21_Algo_Collection
 
-This repository is a Collection of all Algorithms & Data Structures. Submit a pull request to [contribute👇](#how-to-contribute)
+This repository is a Collection of all Algorithms & Data Structures. Submit a pull request to [contribute👇](#-how-to-contribute)
 
 ---
 
