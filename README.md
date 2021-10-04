@@ -40,6 +40,10 @@ This repository is a collection of various algorithms & data structures covering
 - [Tree BFS](C++/tree-bfs.cpp)
 - [Tree DFS](C++/tree-dfs.cpp)
 
+### HTML
+
+- [Site Music](HTML/site-music.html)
+
 ### Java
 
 - [Bubble Sort](Java/bubble-sort.java)
