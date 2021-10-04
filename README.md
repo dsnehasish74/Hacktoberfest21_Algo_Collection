@@ -1,4 +1,4 @@
-# ✨ Hacktoberfest21_Algo_Collection
+# Hacktoberfest21_Algo_Collection ✨ 
 
 This repository is a collection of various algorithms & data structures covering all programming languages. New additions are welcomed. Submit a pull request to [contribute👇](#-how-to-contribute)
 
