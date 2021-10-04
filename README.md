@@ -9,13 +9,16 @@ This repository is a collection of various algorithms & data structures covering
 - [Count Sort](C/count-sort.c)
 - [Merge Sort](C/merge-sort.c)
 - [Quick Sort](C/quick-sort.c)
+- [Tower Of Hanoi](C/tower-of-hanoi.c)
+- [Traverse Singly Linked List](C/traverse-singly-linked-list.c)
 
 ### C++
 
 - [Binary Search](C++/binary-search.cpp)
 - [Bubble Sort](C++/bubble-sort.cpp)
 - [Circular Linked List Insertion Deletion](C++/circular-linked-list-insertion-deletion.cpp)
-- [Dijkstra's Algorithm](C++/dijkstra-algo.cpp)
+- [Counting Sort](C++/counting-sort.cpp)
+- [Dijkstra's Algorithm](C++/dijkstras-algorithm.cpp)
 - [DNF Sort](C++/dnf-sort.cpp)
 - [Heap Sort](C++/heap-sort.cpp)
 - [Infix To Prefix Postfix](C++/infix-to-prefix-postfix.cpp)
@@ -30,6 +33,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Radix Sort](C++/radix-sort.cpp)
 - [Selection Sort](C++/selection-sort.cpp)
 - [Sliding Window Tech](C++/sliding-window-tech.cpp)
+- [Snake Game](C++/snake-game.cpp)
 - [String Match](C++/string-match.cpp)
 - [Tower Of Hanoi](C++/tower-of-hanoi.cpp)
 - [Tree BFS](C++/tree-bfs.cpp)
@@ -39,19 +43,24 @@ This repository is a collection of various algorithms & data structures covering
 
 - [Bubble Sort](Java/bubble-sort.java)
 - [Cyclic Sort](Java/cyclic-sort.java)
+- [Heap Sort](Java/heap-sort.java)
 - [Insertion Sort](Java/insertion-sort.java)
 - [Merge Sort](Java/merge-sort.java)
+- [Quick Sort](Java/quick-sort.java)
 - [Selection Sort](Java/selection-sort.java)
 
 ### Python
 
 - [AVL Tree](Python/avl-tree.py)
 - [Bubble Sort](Python/bubble-sort.py)
+- [Dijkstra's Algorithm](Python/dijkstras-algorithm.py)
 - [First Unique Character](Python/first-unique-character.py)
+- [Floyd's Triangle](Python/floyds-triangle.py)
 - [Insertion Sort](Python/insertion-sort.py)
 - [Merge Sort](Python/merge-sort.py)
 - [Quick Sort](Python/quicksort-sort.py)
 - [Segment Tree](Python/segment-tree.py)
+- [Segment Sort](Python/selection-sort.py)
 
 ## 🙋 How to contribute?
 
