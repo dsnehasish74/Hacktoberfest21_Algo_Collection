@@ -9,6 +9,8 @@ This repository is a collection of various algorithms & data structures covering
 ### C
 
 - [Count Sort](C/count-sort.c)
+- [Floyds All Pair Shortest Path](C/floyds-all-pair-shortest-path.c)
+- [Generic Tree](C/generic-tree.c)
 - [Merge Sort](C/merge-sort.c)
 - [Quick Sort](C/quick-sort.c)
 - [Tower Of Hanoi](C/tower-of-hanoi.c)
@@ -31,6 +33,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Linked List Deletion](C++/linked-list-deletion.cpp)
 - [Linked List Insertion](C++/linked-list-insertion.cpp)
 - [Merge Sort](C++/merge-sort.cpp)
+- [N_Queens Backtracking Problem](C++/n-queens-backtracking.cpp)
 - [Polygon Triangulation](C++/polygon-triangulation.cpp)
 - [Quick Sort](C++/quick-sort.cpp)
 - [Radix Sort](C++/radix-sort.cpp)
@@ -41,6 +44,10 @@ This repository is a collection of various algorithms & data structures covering
 - [Tower Of Hanoi](C++/tower-of-hanoi.cpp)
 - [Tree BFS](C++/tree-bfs.cpp)
 - [Tree DFS](C++/tree-dfs.cpp)
+
+### HTML
+
+- [Site Music](HTML/site-music.html)
 
 ### Java
 
