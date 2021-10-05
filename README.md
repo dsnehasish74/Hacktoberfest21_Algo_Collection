@@ -9,12 +9,12 @@ This repository is a collection of various algorithms & data structures covering
 ### C
 
 - [Count Sort](C/count-sort.c)
+- [Floyds All Pair Shortest Path](C/floyds-all-pair-shortest-path.c)
 - [Generic Tree](C/generic-tree.c)
 - [Merge Sort](C/merge-sort.c)
 - [Quick Sort](C/quick-sort.c)
 - [Tower Of Hanoi](C/tower-of-hanoi.c)
 - [Traverse Singly Linked List](C/traverse-singly-linked-list.c)
-- [Floyds All Pair Shortest Path](C/floyds-all-pair-shortest-path.c)
 
 ### C++
 
