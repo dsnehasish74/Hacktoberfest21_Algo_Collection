@@ -64,6 +64,7 @@ This repository is a collection of various algorithms & data structures covering
 
 - [8 Queens](Python/8-queens.py)
 - [AVL Tree](Python/avl-tree.py)
+- [Binary Search](Python/binary-search.py)
 - [Bubble Sort](Python/bubble-sort.py)
 - [Dijkstra's Algorithm](Python/dijkstras-algorithm.py)
 - [First Unique Character](Python/first-unique-character.py)
@@ -74,7 +75,6 @@ This repository is a collection of various algorithms & data structures covering
 - [Quick Sort](Python/quicksort-sort.py)
 - [Segment Tree](Python/segment-tree.py)
 - [Segment Sort](Python/selection-sort.py)
-- [Binary Search](Python/binary-search.py)
 
 ## 🙋 How to contribute?
 
