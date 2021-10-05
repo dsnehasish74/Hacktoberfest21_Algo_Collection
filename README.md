@@ -67,6 +67,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Quick Sort](Python/quicksort-sort.py)
 - [Segment Tree](Python/segment-tree.py)
 - [Segment Sort](Python/selection-sort.py)
+- [Binary Search](Python/binary-search.py)
 
 ## 🙋 How to contribute?
 
