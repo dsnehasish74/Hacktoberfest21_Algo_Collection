@@ -13,6 +13,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Quick Sort](C/quick-sort.c)
 - [Tower Of Hanoi](C/tower-of-hanoi.c)
 - [Traverse Singly Linked List](C/traverse-singly-linked-list.c)
+- [Floyds All Pair Shortest Path].(C/floyds-all-pair-shortest-path.c)
 
 ### C++
 
