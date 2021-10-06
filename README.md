@@ -77,7 +77,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Segment Sort](Python/selection-sort.py)
 
 ### Swift
--[Bubble Sort](Swift/bubble-sort.swift)
+- [Bubble Sort](Swift/bubble-sort.swift)
 
 ## 🙋 How to contribute?
 
