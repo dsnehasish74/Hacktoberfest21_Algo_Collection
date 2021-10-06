@@ -44,7 +44,7 @@ class Factorial:
             exit()
         if n < len(self.invFactorial_):
             return self.invFactorial_[n]
-        self.inv(n)  # To make sure already calculated n^-1
+        self.inv(n)
         nextArr = [0] * (n + 1 - len(self.invFactorial_))
         initialI = len(self.invFactorial_)
         prev = self.invFactorial_[-1]
