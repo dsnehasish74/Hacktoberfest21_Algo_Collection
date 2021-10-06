@@ -80,7 +80,9 @@ This repository is a collection of various algorithms & data structures covering
 - [Combinations (ncr)](Python/combinations.py)
 
 ### Swift
+
 - [Bubble Sort](Swift/bubble-sort.swift)
+- [Permutations and Combinations](Swift/permutations-and-combinations.swift)
 
 ## 🙋 How to contribute?
 
