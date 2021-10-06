@@ -23,7 +23,8 @@ This repository is a collection of various algorithms & data structures covering
 - [Circular Linked List Insertion Deletion](C++/circular-linked-list-insertion-deletion.cpp)
 - [Counting Sort](C++/counting-sort.cpp)
 - [Dijkstra's Algorithm](C++/dijkstras-algorithm.cpp)
-- [DNF Sort](C++/dnf-sort.cpp)
+- [DNF Sort](C++/dnf-sort.cpp) 
+- [Edmonds-Karp Algorithm](C++/edmonds-karp-algorithm.cpp)
 - [Greedy Algorithm - Coin Change](C++/greedyalgo-coinchange.cpp)
 - [Heap Sort](C++/heap-sort.cpp)
 - [Infix To Prefix Postfix](C++/infix-to-prefix-postfix.cpp)
@@ -64,6 +65,7 @@ This repository is a collection of various algorithms & data structures covering
 
 - [8 Queens](Python/8-queens.py)
 - [AVL Tree](Python/avl-tree.py)
+- [Binary Search](Python/binary-search.py)
 - [Bubble Sort](Python/bubble-sort.py)
 - [Dijkstra's Algorithm](Python/dijkstras-algorithm.py)
 - [First Unique Character](Python/first-unique-character.py)
@@ -74,8 +76,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Quick Sort](Python/quicksort-sort.py)
 - [Segment Tree](Python/segment-tree.py)
 - [Segment Sort](Python/selection-sort.py)
-- [Binary Search](Python/binary-search.py)
-- [Combination (ncr)](Python/combinations.py)
+- [Combinations (ncr)](Python/combinations.py)
 
 ## 🙋 How to contribute?
 
