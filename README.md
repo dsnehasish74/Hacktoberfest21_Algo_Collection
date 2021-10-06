@@ -75,6 +75,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Segment Tree](Python/segment-tree.py)
 - [Segment Sort](Python/selection-sort.py)
 - [Binary Search](Python/binary-search.py)
+- [Combination (ncr)](Python/combinations.py)
 
 ## 🙋 How to contribute?
 

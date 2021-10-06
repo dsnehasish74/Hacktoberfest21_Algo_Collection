@@ -1,6 +1,6 @@
 def binary_search(arr, n):
     st = 0
-    end = len(arr)
+    end = len(arr) - 1
     while(st < end):
         mid = (st+end)//2
         if arr[mid] == n:
