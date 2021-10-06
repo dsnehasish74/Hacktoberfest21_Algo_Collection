@@ -24,7 +24,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Circular Linked List Insertion Deletion](C++/circular-linked-list-insertion-deletion.cpp)
 - [Counting Sort](C++/counting-sort.cpp)
 - [Dijkstra's Algorithm](C++/dijkstras-algorithm.cpp)
-- [DNF Sort](C++/dnf-sort.cpp) 
+- [DNF Sort](C++/dnf-sort.cpp)
 - [Edmonds-Karp Algorithm](C++/edmonds-karp-algorithm.cpp)
 - [Greedy Algorithm - Coin Change](C++/greedyalgo-coinchange.cpp)
 - [Heap Sort](C++/heap-sort.cpp)
@@ -42,6 +42,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Selection Sort](C++/selection-sort.cpp)
 - [Sliding Window Tech](C++/sliding-window-tech.cpp)
 - [Snake Game](C++/snake-game.cpp)
+- [Strassens Matrix Multiplication](C++/strassens-matrix-multiplication.cpp)
 - [String Match](C++/string-match.cpp)
 - [Tower Of Hanoi](C++/tower-of-hanoi.cpp)
 - [Tree BFS](C++/tree-bfs.cpp)
@@ -85,5 +86,4 @@ This repository is a collection of various algorithms & data structures covering
 ## 🙋 How to contribute?
 
 We are open to new additions and suggestions. Please refer to the [contribution guide](CONTRIBUTING.md).
-View my [blog](https://solinone.blogspot.com/). 
-
+View my [blog](https://solinone.blogspot.com/).
