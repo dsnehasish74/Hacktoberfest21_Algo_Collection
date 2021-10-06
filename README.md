@@ -11,6 +11,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Count Sort](C/count-sort.c)
 - [Floyds All Pair Shortest Path](C/floyds-all-pair-shortest-path.c)
 - [Generic Tree](C/generic-tree.c)
+- [Hash Tables](C/hash-tables.c)
 - [Merge Sort](C/merge-sort.c)
 - [Quick Sort](C/quick-sort.c)
 - [Tower Of Hanoi](C/tower-of-hanoi.c)
