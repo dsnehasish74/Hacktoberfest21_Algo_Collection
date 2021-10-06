@@ -80,6 +80,9 @@ This repository is a collection of various algorithms & data structures covering
 - [Segment Sort](Python/selection-sort.py)
 - [Combinations (ncr)](Python/combinations.py)
 
+### Swift
+- [Bubble Sort](Swift/bubble-sort.swift)
+
 ## 🙋 How to contribute?
 
 We are open to new additions and suggestions. Please refer to the [contribution guide](CONTRIBUTING.md).
