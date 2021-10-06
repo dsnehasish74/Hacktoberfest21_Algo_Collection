@@ -20,6 +20,7 @@ This repository is a collection of various algorithms & data structures covering
 ### C++
 
 - [Binary Search](C++/binary-search.cpp)
+- [Binary Search Tree] (C++/BST.cpp)
 - [Bubble Sort](C++/bubble-sort.cpp)
 - [Circular Linked List Insertion Deletion](C++/circular-linked-list-insertion-deletion.cpp)
 - [Counting Sort](C++/counting-sort.cpp)
