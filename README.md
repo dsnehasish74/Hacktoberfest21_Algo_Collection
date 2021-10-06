@@ -54,6 +54,7 @@ This repository is a collection of various algorithms & data structures covering
 ### Java
 
 - [Bubble Sort](Java/bubble-sort.java)
+- [Counting Sort](Java/counting-sort.java)
 - [Cyclic Sort](Java/cyclic-sort.java)
 - [Heap Sort](Java/heap-sort.java)
 - [Insertion Sort](Java/insertion-sort.java)
