@@ -1,0 +1,21 @@
+
+public static void main(String args[])
+{
+    Boolean bb = new Boolean("java");
+    if(bb)//unboxing
+    {
+    System.out.println("A");
+    }
+    else if(bb=false)//autoboxing
+    {
+        System.out.println("B");
+    }
+    else if(bb==false)
+    {
+        System.out.println("C");
+    }
+    else{
+        System.out.println("D");
+    }
+    }
+    
