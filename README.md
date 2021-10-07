@@ -82,6 +82,7 @@ This repository is a collection of various algorithms & data structures covering
 
 ### Swift
 - [Bubble Sort](Swift/bubble-sort.swift)
+- [Merge Sort](Swift/merge-sort.swift)
 
 ## 🙋 How to contribute?
 
