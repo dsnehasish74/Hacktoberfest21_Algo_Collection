@@ -1,5 +1,5 @@
 
-func countingSort(_ array: [Int]) -> [Int] {
+func countSort(_ array: [Int]) -> [Int] {
   guard array.count > 0 else {
     return array
   }
@@ -27,4 +27,4 @@ func countingSort(_ array: [Int]) -> [Int] {
 }
  
 let list1 = [5, 2, 1, 6, 4, 3]
-print(countingSort(list1))
+print(countSort(list1))
