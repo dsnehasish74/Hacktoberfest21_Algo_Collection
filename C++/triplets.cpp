@@ -47,6 +47,7 @@ int main()
     {
         for (auto triplet : p)
         {
+            // Outputting all valid triplet sets
             for(auto ans : triplet)
                 cout << ans << " ";
             cout << endl;
