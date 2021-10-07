@@ -83,8 +83,10 @@ This repository is a collection of various algorithms & data structures covering
 ### Swift
 
 - [Bubble Sort](Swift/bubble-sort.swift)
+- [Permutations and Combinations](Swift/permutations-and-combinations.swift)
 - [Fibonacci](Swift/fibonacci.swift)
 - [Merge Sort](Swift/merge-sort.swift)
+
 
 ## 🙋 How to contribute?
 
