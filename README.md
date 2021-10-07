@@ -81,7 +81,9 @@ This repository is a collection of various algorithms & data structures covering
 - [Lazy Segment Tree](Python/lazy-segment-tree.py)
 
 ### Swift
+
 - [Bubble Sort](Swift/bubble-sort.swift)
+- [Fibonacci](Swift/fibonacci.swift)
 - [Merge Sort](Swift/merge-sort.swift)
 
 ## 🙋 How to contribute?
