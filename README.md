@@ -16,6 +16,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Quick Sort](C/quick-sort.c)
 - [Tower Of Hanoi](C/tower-of-hanoi.c)
 - [Traverse Singly Linked List](C/traverse-singly-linked-list.c)
+- [Selection Sort](C/selection-sort.c)
 
 ### C++
 
