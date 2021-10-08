@@ -80,6 +80,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Segment Sort](Python/selection-sort.py)
 - [Combinations (ncr)](Python/combinations.py)
 - [Lazy Segment Tree](Python/lazy-segment-tree.py)
+- [Singly Linked List](Python/singly-linked-list.py)
 
 ### Swift
 
@@ -90,6 +91,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Fibonacci](Swift/fibonacci.swift)
 - [Merge Sort](Swift/merge-sort.swift)
 - [Shell Sort](Swift/shell-sort.swift)
+- [Insertion Sort](Swift/insertion-sort.swift)
 
 
 ## 🙋 How to contribute?
