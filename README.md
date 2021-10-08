@@ -90,6 +90,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Permutations and Combinations](Swift/permutations-and-combinations.swift)
 - [Fibonacci](Swift/fibonacci.swift)
 - [Merge Sort](Swift/merge-sort.swift)
+- [Count Sort](Swift/count-sort.swift)
 - [Shell Sort](Swift/shell-sort.swift)
 - [Insertion Sort](Swift/insertion-sort.swift)
 
