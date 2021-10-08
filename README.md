@@ -80,6 +80,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Segment Sort](Python/selection-sort.py)
 - [Combinations (ncr)](Python/combinations.py)
 - [Lazy Segment Tree](Python/lazy-segment-tree.py)
+- [Singly Linked List](Python/singly-linked-list.py)
 
 ### Swift
 
