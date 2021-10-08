@@ -50,6 +50,7 @@ This repository is a collection of various algorithms & data structures covering
 
 ### HTML
 
+- [Digital Clock](HTML/digital-clock.html)
 - [Site Music](HTML/site-music.html)
 
 ### Java
