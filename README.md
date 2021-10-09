@@ -44,6 +44,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Sliding Window Tech](C++/sliding-window-tech.cpp)
 - [Snake Game](C++/snake-game.cpp)
 - [String Match](C++/string-match.cpp)
+- [Tic Tac Toe](C++/tic-tac-toe.cpp)
 - [Tower Of Hanoi](C++/tower-of-hanoi.cpp)
 - [Tree BFS](C++/tree-bfs.cpp)
 - [Tree DFS](C++/tree-dfs.cpp)
