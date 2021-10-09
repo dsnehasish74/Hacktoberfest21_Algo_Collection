@@ -1,5 +1,5 @@
-
 ![logo jpg](https://user-images.githubusercontent.com/71459989/135807893-2dda4ce6-f9b8-4232-a893-631aef3f2183.jpg)
+
 # Hacktoberfest21_Algo_Collection ✨
 
 This repository is a collection of various algorithms & data structures covering all programming languages. New additions are welcomed. Submit a pull request to [contribute👇](#-how-to-contribute)
@@ -24,7 +24,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Circular Linked List Insertion Deletion](C++/circular-linked-list-insertion-deletion.cpp)
 - [Counting Sort](C++/counting-sort.cpp)
 - [Dijkstra's Algorithm](C++/dijkstras-algorithm.cpp)
-- [DNF Sort](C++/dnf-sort.cpp) 
+- [DNF Sort](C++/dnf-sort.cpp)
 - [Edmonds-Karp Algorithm](C++/edmonds-karp-algorithm.cpp)
 - [Greedy Algorithm - Coin Change](C++/greedyalgo-coinchange.cpp)
 - [Heap Sort](C++/heap-sort.cpp)
@@ -39,6 +39,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Polygon Triangulation](C++/polygon-triangulation.cpp)
 - [Quick Sort](C++/quick-sort.cpp)
 - [Radix Sort](C++/radix-sort.cpp)
+- [Rabin Karp Algorithm](C++/rabin-karp-algorithm.cpp)
 - [Selection Sort](C++/selection-sort.cpp)
 - [Sliding Window Tech](C++/sliding-window-tech.cpp)
 - [Snake Game](C++/snake-game.cpp)
@@ -97,9 +98,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Shell Sort](Swift/shell-sort.swift)
 - [Insertion Sort](Swift/insertion-sort.swift)
 
-
 ## 🙋 How to contribute?
 
 We are open to new additions and suggestions. Please refer to the [contribution guide](CONTRIBUTING.md).
-View my [blog](https://solinone.blogspot.com/). 
-
+View my [blog](https://solinone.blogspot.com/).
