@@ -82,6 +82,8 @@ This repository is a collection of various algorithms & data structures covering
 - [Combinations (ncr)](Python/combinations.py)
 - [Lazy Segment Tree](Python/lazy-segment-tree.py)
 - [Singly Linked List](Python/singly-linked-list.py)
+- [Counting Sort](Python/counting-sort.py)
+- [Radix Sort](Python/radix-sort.py)
 
 ### Swift
 
