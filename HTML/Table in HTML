@@ -1,0 +1,63 @@
+<html>
+	<head>
+		<title>Sticker Shop</title>
+	</head>
+		<body style="background:#F6F6EB;"><center>
+			<table border = 1 bordercolor="#957DAD" cellpadding=10 cellspacing=0 background="#F6F6EB">
+			<caption style="color:#C2C2B4; background-color:#F6ECF5;">Stock Details</caption>
+				<tr>
+					<th>Year Made</th>
+					<th>Code</th>
+					<th>Type</th>
+					<th>Available</th>
+					<th>Price/Piece</th>
+					<th>Sold</th>
+				</tr>
+				<tr>
+					<td rowspan = "2">2020</td>
+					<td>1101</td>
+					<td>Pastel</td>
+					<td>40</td>
+					<td>Rs. 50</td>
+					<td>10</td>
+
+				</tr>
+
+				<tr>
+
+					<td>1102</td>
+					<td>SOC</td>
+					<td>48</td>
+					<td>Rs. 100</td>
+					<td>2</td>
+				</tr>
+				<tr>
+					<td rowspan = "3">2021</td>
+					<td>1103</td>
+					<td>Books</td>
+					<td>38</td>
+					<td>Rs. 60</td>
+					<td>12</td>
+				</tr>
+				<tr>
+					<td>1104</td>
+					<td>Pop Colours</td>
+					<td>22</td>
+					<td>Rs. 80</td>
+					<td>28</td>
+				</tr>
+				<tr>
+					<td>1105</td>
+					<td>Spring</td>
+					<td>10</td>
+					<td>Rs. 110</td>
+					<td>40</td>
+				</tr>
+				<tr>
+					<td colspan = "6">Next Update: Nov, 2021</td>
+				</tr>
+
+			</center>
+			<table>
+		</body>
+<html>
