@@ -1,0 +1,71 @@
+<html>
+      	<head>
+		<title>Web Page Validation</title>
+		<script type= "text/javascript" language="javascript">
+		function validated()
+		{
+			usr=document.getElementById("uname").value
+			pwd=document.getElementById("pwd").value
+			rpwd=document.getElementById("rpwd").value
+			add=document.getElementById("add").value
+			email=document.getElementById("email").value
+			pno=document.getElementById("pno").value
+			alpha=/^[a-z A-Z]+$/
+			num=/[0-9]+$/
+			if(usr==""|| pwd==""||rpwd==""||add==""||email==""||pno=="")
+			{
+				alert("All Fields Mandatory")
+			}
+			else if(!usr.match(alpha))
+			{
+				document.getElementById("uname").focus()
+				alert("Write Only Characters")
+				document.getElementById("uname").value=""
+			}
+			else if(rpwd!=pwd)
+			{
+				document.getElementById("pwd").focus()
+				alert("Passwords do not match")
+				document.getElementById("pwd").value=""
+				document.getElementById("rpwd").value=""
+			}
+			else if(email.indexOf('@')==-1||email.indexOf('.')==-1)
+			{
+				document.getElementById("email").focus()
+				alert("Enter Correct Email")
+				document.getElementById("email").value=""
+			}
+			else if(!(pno.match(num))||(pno.length!=10))
+			{
+				document.getElementById("pno").focus()
+				alert("Enter 10 digit phone number")
+				document.getElementById("pno").value=""
+			}
+			else
+			{
+				alert("validated")
+			}
+		}
+		</script>
+	</head>
+	<body bgcolor=linen>
+		<form>
+		
+		<center><h1><font face="verdana" color="black">Sign Up</h1></font></center>
+		<center>
+	<p>Enter the following information to sign up!</p>
+		Name: <Input type="text" id="uname"/><br><br>
+		Password: <Input type="password" id="pwd"/><br><br>
+		Re-type Password: <Input type="password" id="rpwd"/><br><br>
+		Address: <textarea id="add"></textarea><br><br>
+		Email: <Input type="text" id="email"/><br><br>
+		Phone Number: <Input type="text" id="pno"/> <br><br>
+		</font>
+		<input type="button" id="validate" value="validate" onclick="validated( )"/><br><br>
+		<input type="reset" name="reset" value="Reset"/>
+</center>
+
+</form>
+
+	</body>
+</html>
