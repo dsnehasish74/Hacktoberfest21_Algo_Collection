@@ -26,6 +26,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Dijkstra's Algorithm](C++/dijkstras-algorithm.cpp)
 - [DNF Sort](C++/dnf-sort.cpp)
 - [Edmonds-Karp Algorithm](C++/edmonds-karp-algorithm.cpp)
+- [Floyd Warshall Algorithm](C++/floyd-warshall-algorithm.cpp)
 - [Greedy Algorithm - Coin Change](C++/greedyalgo-coinchange.cpp)
 - [Heap Sort](C++/heap-sort.cpp)
 - [Infix To Prefix Postfix](C++/infix-to-prefix-postfix.cpp)
