@@ -49,6 +49,8 @@ This repository is a collection of various algorithms & data structures covering
 - [Tree BFS](C++/tree-bfs.cpp)
 - [Tree DFS](C++/tree-dfs.cpp)
 - [Triplets](C++/triplets.cpp)
+- [Fractional Knapsack](C++/fractional-knapsack.cpp)
+- [0/1 Knapsack](C++/0-1-knapsack.cpp)
 
 ### HTML
 
