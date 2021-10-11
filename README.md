@@ -32,6 +32,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Insertion And Deletion In Stack](C++/insertion-and-deletion-in-stack.cpp)
 - [Insertion Sort](C++/insertion-sort.cpp)
 - [Kanade Algorithm](C++/kanade-algorithm.cpp)
+- [Kruskal Algorithm](C++/kruskal-algorithm.cpp)
 - [Linked List Deletion](C++/linked-list-deletion.cpp)
 - [Linked List Insertion](C++/linked-list-insertion.cpp)
 - [Merge Sort](C++/merge-sort.cpp)
