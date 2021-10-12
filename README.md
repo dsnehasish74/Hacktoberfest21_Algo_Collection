@@ -49,7 +49,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Tree BFS](C++/tree-bfs.cpp)
 - [Tree DFS](C++/tree-dfs.cpp)
 - [Triplets](C++/triplets.cpp)
-
+- [Euclid Extended](C++/euclid-extended.cpp)
 ### HTML
 
 - [Digital Clock](HTML/digital-clock.html)
