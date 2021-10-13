@@ -57,6 +57,7 @@ This repository is a collection of various algorithms & data structures covering
 
 ### Java
 
+- [Binary Search](Java/binary-search.java)
 - [Bubble Sort](Java/bubble-sort.java)
 - [Cyclic Sort](Java/cyclic-sort.java)
 - [Heap Sort](Java/heap-sort.java)
