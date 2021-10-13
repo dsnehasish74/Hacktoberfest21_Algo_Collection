@@ -22,6 +22,7 @@ This repository is a collection of various algorithms & data structures covering
 
 - [Binary Search](C++/binary-search.cpp)
 - [Bubble Sort](C++/bubble-sort.cpp)
+- [Check Prime](C++/check-prime.cpp)
 - [Circular Linked List Insertion Deletion](C++/circular-linked-list-insertion-deletion.cpp)
 - [Cocktail Sort](C++/cocktail-sort.cpp)
 - [Counting Sort](C++/counting-sort.cpp)
