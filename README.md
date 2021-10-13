@@ -65,6 +65,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Quick Sort](Java/quick-sort.java)
 - [Selection Sort](Java/selection-sort.java)
 - [Z Algorithm](Java/z-algorithm.java)
+- [Travelling Salesman](Java/travelling.java)
 
 ### Python
 
