@@ -8,6 +8,7 @@ This repository is a collection of various algorithms & data structures covering
 
 ### C
 
+- [Cocktail Sort](C/cocktail-sort.c)
 - [Count Sort](C/count-sort.c)
 - [Floyds All Pair Shortest Path](C/floyds-all-pair-shortest-path.c)
 - [Generic Tree](C/generic-tree.c)
@@ -22,6 +23,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Binary Search](C++/binary-search.cpp)
 - [Bubble Sort](C++/bubble-sort.cpp)
 - [Circular Linked List Insertion Deletion](C++/circular-linked-list-insertion-deletion.cpp)
+- [Cocktail Sort](C++/cocktail-sort.cpp)
 - [Counting Sort](C++/counting-sort.cpp)
 - [Dijkstra's Algorithm](C++/dijkstras-algorithm.cpp)
 - [DNF Sort](C++/dnf-sort.cpp)
@@ -58,6 +60,7 @@ This repository is a collection of various algorithms & data structures covering
 ### Java
 
 - [Bubble Sort](Java/bubble-sort.java)
+- [Cocktail Sort](Java/cocktail-sort.java)
 - [Cyclic Sort](Java/cyclic-sort.java)
 - [Heap Sort](Java/heap-sort.java)
 - [Insertion Sort](Java/insertion-sort.java)
@@ -72,6 +75,7 @@ This repository is a collection of various algorithms & data structures covering
 - [AVL Tree](Python/avl-tree.py)
 - [Binary Search](Python/binary-search.py)
 - [Bubble Sort](Python/bubble-sort.py)
+- [Cocktail Sort](Python/cocktail-sort.py)
 - [Dijkstra's Algorithm](Python/dijkstras-algorithm.py)
 - [First Unique Character](Python/first-unique-character.py)
 - [Floyd's Triangle](Python/floyds-triangle.py)
