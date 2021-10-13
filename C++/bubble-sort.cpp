@@ -11,6 +11,8 @@ int main()
     cout<<"\nSorting the Array using Bubble Sort \n";
     for(i=0; i<(n-1); i++)
     {
+        //Optimizing Bubble Sort
+        bool flag=true;
         for(j=0; j<(n-i-1); j++)
         {
             if(arr[j]>arr[j+1])
@@ -18,8 +20,11 @@ int main()
                 temp = arr[j];
                 arr[j] = arr[j+1];
                 arr[j+1] = temp;
+                flag=false;
             }
         }
+        //If No Swapping it means array is sorted at this point.
+        if(flag)break;
     }
     cout<<"\nArray Sorted Successfully!\n";
     cout<<"\nThe New Array is: \n";
