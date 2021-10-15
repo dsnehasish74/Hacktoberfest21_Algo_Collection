@@ -8,6 +8,7 @@ This repository is a collection of various algorithms & data structures covering
 
 ### C
 
+- [Cocktail Sort](C/cocktail-sort.c)
 - [Count Sort](C/count-sort.c)
 - [Floyds All Pair Shortest Path](C/floyds-all-pair-shortest-path.c)
 - [Generic Tree](C/generic-tree.c)
@@ -21,12 +22,15 @@ This repository is a collection of various algorithms & data structures covering
 
 - [Binary Search](C++/binary-search.cpp)
 - [Bubble Sort](C++/bubble-sort.cpp)
+- [Check Prime](C++/check-prime.cpp)
 - [Circular Linked List Insertion Deletion](C++/circular-linked-list-insertion-deletion.cpp)
+- [Cocktail Sort](C++/cocktail-sort.cpp)
 - [Counting Sort](C++/counting-sort.cpp)
 - [Dijkstra's Algorithm](C++/dijkstras-algorithm.cpp)
 - [DNF Sort](C++/dnf-sort.cpp)
 - [Edmonds-Karp Algorithm](C++/edmonds-karp-algorithm.cpp)
 - [Floyd Warshall Algorithm](C++/floyd-warshall-algorithm.cpp)
+- [Find Sum at Level K](C++/find-sum-at-level-k)
 - [Greedy Algorithm - Coin Change](C++/greedyalgo-coinchange.cpp)
 - [Heap Sort](C++/heap-sort.cpp)
 - [Infix To Prefix Postfix](C++/infix-to-prefix-postfix.cpp)
@@ -46,11 +50,12 @@ This repository is a collection of various algorithms & data structures covering
 - [Snake Game](C++/snake-game.cpp)
 - [String Match](C++/string-match.cpp)
 - [Tic Tac Toe](C++/tic-tac-toe.cpp)
+- [Topological Sort](C++/topological-sort.cpp)
 - [Tower Of Hanoi](C++/tower-of-hanoi.cpp)
 - [Tree BFS](C++/tree-bfs.cpp)
 - [Tree DFS](C++/tree-dfs.cpp)
 - [Triplets](C++/triplets.cpp)
-
+- [Euclid Extended](C++/euclid-extended.cpp)
 ### HTML
 
 - [Digital Clock](HTML/digital-clock.html)
@@ -58,7 +63,9 @@ This repository is a collection of various algorithms & data structures covering
 
 ### Java
 
+- [Binary Search](Java/binary-search.java)
 - [Bubble Sort](Java/bubble-sort.java)
+- [Cocktail Sort](Java/cocktail-sort.java)
 - [Cyclic Sort](Java/cyclic-sort.java)
 - [Heap Sort](Java/heap-sort.java)
 - [Insertion Sort](Java/insertion-sort.java)
@@ -66,6 +73,8 @@ This repository is a collection of various algorithms & data structures covering
 - [Quick Sort](Java/quick-sort.java)
 - [Selection Sort](Java/selection-sort.java)
 - [Z Algorithm](Java/z-algorithm.java)
+- [Hamiltonian Cycle](Java/hamiltonianCycle.java)
+- [Travelling Salesman](Java/travelling.java)
 
 ### Python
 
@@ -73,6 +82,7 @@ This repository is a collection of various algorithms & data structures covering
 - [AVL Tree](Python/avl-tree.py)
 - [Binary Search](Python/binary-search.py)
 - [Bubble Sort](Python/bubble-sort.py)
+- [Cocktail Sort](Python/cocktail-sort.py)
 - [Dijkstra's Algorithm](Python/dijkstras-algorithm.py)
 - [First Unique Character](Python/first-unique-character.py)
 - [Floyd's Triangle](Python/floyds-triangle.py)
