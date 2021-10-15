@@ -54,8 +54,10 @@ This repository is a collection of various algorithms & data structures covering
 - [Tower Of Hanoi](C++/tower-of-hanoi.cpp)
 - [Tree BFS](C++/tree-bfs.cpp)
 - [Tree DFS](C++/tree-dfs.cpp)
+- [Tree Top View](C++/tree-top-view.cpp)
 - [Triplets](C++/triplets.cpp)
 - [Euclid Extended](C++/euclid-extended.cpp)
+
 ### HTML
 
 - [Digital Clock](HTML/digital-clock.html)
