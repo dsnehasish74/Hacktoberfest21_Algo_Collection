@@ -49,6 +49,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Snake Game](C++/snake-game.cpp)
 - [String Match](C++/string-match.cpp)
 - [Tic Tac Toe](C++/tic-tac-toe.cpp)
+- [Topological Sort](C++/topological-sort.cpp)
 - [Tower Of Hanoi](C++/tower-of-hanoi.cpp)
 - [Tree BFS](C++/tree-bfs.cpp)
 - [Tree DFS](C++/tree-dfs.cpp)
