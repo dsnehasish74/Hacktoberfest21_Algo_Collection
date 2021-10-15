@@ -1,0 +1,58 @@
+#include<bits/stdc++.h>
+using namespace std;
+class node{
+  public:
+  int data;
+  node* left;
+  node* right;
+
+  node(int d){
+       data = d;
+       left = right = NULL;
+  }
+};
+node* buildTree(){
+     int d,c;
+     cin>>d>>c;
+     node* root = new node(d);
+     if(c==0)
+     {
+
+     }
+     else if(c==1)
+     {
+          root->left = buildTree();
+     }
+     else if(c==2)
+     {
+          root->left = buildTree();
+          root->right = buildTree();
+     }
+     return root;
+
+
+}
+void findSum(node* root , int k, int &sum){
+
+     if(root==NULL)
+     return;
+
+     if(k==0){
+          sum += root->data;
+          return;
+     }
+     findSum(root->left,k-1,sum);
+     findSum(root->right,k-1,sum);
+
+}
+
+
+
+int main(){
+     node* root = buildTree();
+     int k;
+     cin>>k;
+     int sum=0;
+     findSum(root,k,sum);
+     cout<<sum;
+}
