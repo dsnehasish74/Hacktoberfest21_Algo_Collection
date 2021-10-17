@@ -40,6 +40,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Tower Of Hanoi](C++/tower-of-hanoi.cpp)
 - [Tree BFS](C++/tree-bfs.cpp)
 - [Tree DFS](C++/tree-dfs.cpp)
+- [Trie Search](C++/trie-search.cpp)
 
 ### Java
 
