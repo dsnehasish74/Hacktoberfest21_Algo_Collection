@@ -72,6 +72,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Merge Sort](Java/merge-sort.java)
 - [Quick Sort](Java/quick-sort.java)
 - [Selection Sort](Java/selection-sort.java)
+- [toBinary](Java/toBinary.java)
 - [Z Algorithm](Java/z-algorithm.java)
 - [Hamiltonian Cycle](Java/hamiltonianCycle.java)
 - [Travelling Salesman](Java/travelling.java)
