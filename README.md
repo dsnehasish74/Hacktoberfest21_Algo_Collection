@@ -90,6 +90,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Knapsack](Python/knapsack.py)
 - [Merge Sort](Python/merge-sort.py)
 - [Quick Sort](Python/quicksort-sort.py)
+- [Searching Articulation Point](Python/searching-articulation-point.py)
 - [Segment Tree](Python/segment-tree.py)
 - [Segment Sort](Python/selection-sort.py)
 - [Combinations (ncr)](Python/combinations.py)
