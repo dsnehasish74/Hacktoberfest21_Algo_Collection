@@ -87,6 +87,7 @@ This repository is a collection of various algorithms & data structures covering
 - [First Unique Character](Python/first-unique-character.py)
 - [Floyd's Triangle](Python/floyds-triangle.py)
 - [Insertion Sort](Python/insertion-sort.py)
+- [Kadane's Algorithm](Python/kadanes-algorithm.py)
 - [Knapsack](Python/knapsack.py)
 - [Merge Sort](Python/merge-sort.py)
 - [Quick Sort](Python/quicksort-sort.py)
