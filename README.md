@@ -56,6 +56,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Tree DFS](C++/tree-dfs.cpp)
 - [Triplets](C++/triplets.cpp)
 - [Euclid Extended](C++/euclid-extended.cpp)
+- [Longest Valid Parenthesis](C++/longest-valid-parentheses.cpp)
 ### HTML
 
 - [Digital Clock](HTML/digital-clock.html)
