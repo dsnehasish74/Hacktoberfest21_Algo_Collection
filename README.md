@@ -45,6 +45,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Quick Sort](C++/quick-sort.cpp)
 - [Radix Sort](C++/radix-sort.cpp)
 - [Rabin Karp Algorithm](C++/rabin-karp-algorithm.cpp)
+- [Random insert into a Linked List](C++/random-insert-into-ll.cpp)
 - [Selection Sort](C++/selection-sort.cpp)
 - [Sliding Window Tech](C++/sliding-window-tech.cpp)
 - [Snake Game](C++/snake-game.cpp)
