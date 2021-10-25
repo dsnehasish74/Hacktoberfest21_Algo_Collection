@@ -97,6 +97,7 @@ This repository is a collection of various algorithms & data structures covering
 - [Singly Linked List](Python/singly-linked-list.py)
 - [Counting Sort](Python/counting-sort.py)
 - [Radix Sort](Python/radix-sort.py)
+- [URI interval 2](Python/uri-interval-2.py)
 
 ### Swift
 
